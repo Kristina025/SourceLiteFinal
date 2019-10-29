@@ -1,12 +1,12 @@
-title {
-	font-family: Artifika;
+#Title {
+	font-family: "Times New Roman";
 	font-size: 21px;
 	color: lightblue;
 }
 
-subtitle {
+#Subtitle {
 	font-family: "Times New Roman";
 	font-size: 11px;
-	color: lightpurple;
+	color: blueviolet;
 }
 
