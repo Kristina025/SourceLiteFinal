@@ -1,12 +1,14 @@
 #Title {
-	font-family: "Times New Roman";
-	font-size: 21px;
-	color: lightblue;
+	font-family: 'Cormorant SC', serif;;
+	font-size: 200px;
+	color:#0000ff;
+	text-align: center;
 }
 
 #Subtitle {
 	font-family: "Times New Roman";
-	font-size: 11px;
-	color: blueviolet;
+	font-size: 40px;
+	color:  #9999ff;
+	text-align: center; 
 }
 
