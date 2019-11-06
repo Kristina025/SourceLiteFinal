@@ -1,8 +1,9 @@
 #Title {
-	font-family: 'Cormorant SC', serif;;
-	font-size: 200px;
-	color:#0000ff;
+	font-family: 'Satisfy', cursive;
+	font-size: 150px;
+	color:#694ad9;
 	text-align: center;
+	margin-top: 5%; 
 }
 
 #Subtitle {
@@ -10,5 +11,18 @@
 	font-size: 40px;
 	color:  #9999ff;
 	text-align: center; 
+	margin-top: 5%;
+}
+
+#button {
+	text-align: center; 
+	flex: .3;
+	margin-top: 5%;  
+}
+ 
+#content {
+	display: flex; 
+	flex-direction: column; 
+	align-items: center; 
 }
 
