@@ -10,4 +10,3 @@ function firstAPI() {
     }
     request.send()
 }
-
