@@ -11,13 +11,13 @@
 	font-size: 40px;
 	color:  #9999ff;
 	text-align: center; 
-	margin-top: 5%;
+	margin-top: 2%;
 }
 
 #button {
 	text-align: center; 
 	flex: .3;
-	margin-top: 5%;  
+	margin-top: 2%;  
 }
  
 #content {
@@ -25,4 +25,3 @@
 	flex-direction: column; 
 	align-items: center; 
 }
-
