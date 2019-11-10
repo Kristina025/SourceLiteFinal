@@ -1,27 +1,32 @@
 #Title {
 	font-family: 'Satisfy', cursive;
-	font-size: 150px;
+	font-size: 135px;
 	color:#694ad9;
 	text-align: center;
-	margin-top: 5%; 
+	margin-top: 1%; 
 }
 
 #Subtitle {
 	font-family: "Times New Roman";
-	font-size: 40px;
+	font-size: 35px;
 	color:  #9999ff;
 	text-align: center; 
-	margin-top: 2%;
+	margin-top: 1%;
 }
 
 #button {
 	text-align: center; 
 	flex: .3;
-	margin-top: 2%;  
+	margin-top: 1%;  
+	margin-bottom: 1%; 
 }
  
 #content {
 	display: flex; 
 	flex-direction: column; 
 	align-items: center; 
+}
+
+#Body {
+	background-color: #ead3f5; 
 }
