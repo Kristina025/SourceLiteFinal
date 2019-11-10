@@ -7,6 +7,7 @@ function firstAPI() {
         object = JSON.parse(request.response)
         image = object.message 
         console.log(image)
+        document.getElementById('pic').setAttribute("src", image)
     }
     request.send()
 }
