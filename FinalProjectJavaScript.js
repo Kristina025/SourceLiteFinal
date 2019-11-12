@@ -8,6 +8,7 @@ function firstAPI() {
         console.log(image)
         document.getElementById('pic').setAttribute("src", image)
         document.getElementById("pic").style.display="block";
+        document.getElementById("Card-Image").style.display="block";
     }
     request.send()
 }

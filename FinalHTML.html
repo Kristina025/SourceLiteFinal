@@ -11,8 +11,11 @@
     <div id = "content">
       <h1 id = "Title"> Random Dog Image </h1>
       <h4 id = "Subtitle"> User's will recieve a random dog image when they click on the button.</h4> 
-      <div>
+      <div id = "Card-Image" class= "card" style="display: none">
          <img id = "pic" src = " " alt="doggo" height = "500" width = "700"; style="border:15px double white; display: none"/>
+         <div class= "card-body"> 
+            <center> <p class= "card-text"> Random dog image from the Dog CEO API</p> </center>   
+         </div>
       </div>
       <button id = "button" type="button" class="btn btn-outline-primary" onclick="firstAPI()">Click Me!</button>
    </div>
