@@ -1,17 +1,19 @@
 #Title {
 	font-family: 'Satisfy', cursive;
 	font-size: 135px;
-	color:#694ad9;
+	color:#1339f2;
 	text-align: center;
 	margin-top: 1%; 
+	text-shadow: 2px 2px 0 white, 2px -2px 0 white, -2px 2px 0 white, -2px -2px 0 white, 2px 0px 0 white, 0px 2px 0 white, -2px 0px 0 white, 0px -2px 0 white, 2px 2px 3px rgba(206,89,55,0);
 }
 
 #Subtitle {
 	font-family: "Times New Roman";
 	font-size: 35px;
-	color:  #9999ff;
+	color:  #3d5cf2;
 	text-align: center; 
 	margin-top: 1%;
+	text-shadow: 2px 2px 0 white, 2px -2px 0 white, -2px 2px 0 white, -2px -2px 0 white, 2px 0px 0 white, 0px 2px 0 white, -2px 0px 0 white, 0px -2px 0 white, 2px 2px 3px rgba(206,89,55,0);
 }
 
 #button {
@@ -19,6 +21,7 @@
 	flex: .3;
 	margin-top: 1%;  
 	margin-bottom: 1%; 
+	text-shadow: 2px 2px 0 white, 2px -2px 0 white, -2px 2px 0 white, -2px -2px 0 white, 2px 0px 0 white, 0px 2px 0 white, -2px 0px 0 white, 0px -2px 0 white, 2px 2px 3px rgba(206,89,55,0);
 }
  
 #content {
@@ -28,5 +31,5 @@
 }
 
 #Body {
-	background-color: #ead3f5; 
+	background-image: url("https://media.giphy.com/media/4Hve5nj5N2u1f8qjsl/giphy.gif");
 }
